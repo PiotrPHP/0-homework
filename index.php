@@ -1,7 +1,7 @@
 <?php
 require 'import.php';
 
-const TESTCONSTANTA = 'asd';
+const TEST_CONSTANTA = 'asd';
 $user_name = "Igor";
 
 if (1 == 1) {
